@@ -37,6 +37,7 @@ https://artfight.net/character/3782161.sonny-rawlins
 https://artfight.net/character/3782345.aniston-rawlins
 https://artfight.net/character/4053613.julian
 https://artfight.net/character/4053616.xahckh-zack
+
             ];
             const randomIndex = Math.floor(Math.random() * characterUrls.length);
             const randomUrl = characterUrls[randomIndex];
